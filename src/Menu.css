@@ -1,0 +1,381 @@
+a:link
+{
+text-decoration:none;
+}
+
+.Menu {
+  width: 100%;
+ 
+}
+
+.bodyMenu{
+  width: 100%;
+
+  background-color: #ffff;
+}
+
+
+
+.Menu-header {
+  height: 85px;
+  width: 100%;
+  background-color: #54A1FF;
+  
+}
+.Menu-header {
+  border-bottom: #EEEEEE 1px outset;
+}
+
+.Menu-header .Logo {
+  color: #ffff;
+  float: right;
+  margin:0 auto;
+  margin-right: 15px;
+}
+
+.Menu-header .Logo {
+  text-align: justify;
+  font-family:'Rounded';
+  font-size: 30px;
+}
+
+.headerOpçoes {
+  margin:0 auto;
+  margin-top: 63px;
+  padding: 0;
+  float: left;
+}
+
+.headerOpçoes {
+  text-align: center;
+}
+
+.headerOpçoes .headerMenu {
+  display: inline-block; 
+  margin-left: 30px;
+}
+
+.headerOpçoes .headerSobre{
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.headerOpçoes .headerReferencias {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+
+.headerOpçoes .headerMenu a :hover{
+  color:#61dafb;
+}
+
+.headerOpçoes .headerSobre a :hover{
+  color:#61dafb;
+}
+
+.headerOpçoes .headerReferencias a :hover{
+  color:#61dafb;
+}
+
+.headerMenu .Menu {
+  background-color: Transparent;
+  color: #ffff;
+  border: none;
+}
+
+.headerMenu .Menu {
+  font-family: "Corbel"; 
+  font-size: 18px;
+}
+
+.headerSobre .Sobre {
+  background-color: Transparent;
+  color: #ffff;
+  border: none;
+}
+
+.headerSobre .Sobre {
+  font-family: "Corbel"; 
+  font-size: 18px;
+}
+
+.headerReferencias .Referencias {
+  background-color: Transparent;
+  color: #ffff;
+  border: none;
+}
+
+.headerReferencias .Referencias {
+  font-family: "Corbel"; 
+  font-size: 18px;
+}
+
+
+.logoMenu {
+  width: 15px;
+  height: 15px;
+  margin-right: 4px;
+
+}
+
+.logoSobre {
+  width: 20px;
+  height: 15px;
+}
+
+.logoReferencias {
+  width: 20px;
+  height: 15px;
+  margin-right: 4px;
+ 
+}
+
+.headerMain {
+  height: 60px;
+  width: 100%;
+  background-color: #ffff;
+}
+
+.headerMain {
+  border-bottom: #EEEEEE 1px outset;
+ 
+}
+
+.ulPrincipal {
+  margin-top:36px;
+  float: left;
+  z-index: 0;
+ 
+}
+
+.ulPrincipal {
+  text-align: center;
+}
+
+.LiMenuLinguagens {
+  display: inline-block;
+  background-color: Transparent;
+}
+
+.LiMenuLinguagens {
+  font-size: 16px;
+  text-align: center;
+}
+
+.LiMenuCodigosP {
+  display: inline-block;
+  background-color: Transparent;
+  margin-left: 20px; 
+}
+
+.LiMenuCodigosP {
+  font-size: 16px;
+  text-align: center;
+}
+
+.LiMenu {
+  display: inline-block;
+  background-color: Transparent;
+  margin-left: 20px;
+}
+
+.LiMenu {
+  font-size: 16px;
+  text-align: center;
+}
+
+.aMenu {
+  display: block;
+  color: #0394FF; 
+  border-bottom: none;
+  padding-bottom: 6px;
+ padding-top: 0;
+}
+
+.aMenu {
+  font-family: "Corbel";
+}
+
+.aMenu:hover{
+  border-bottom: #61dafb solid 1px;
+}
+
+.subUl {
+  display: none;
+  background-color: white; 
+  float: left;
+  border: solid 2px rgba(64, 96, 161, 0.103); 
+  z-index: 2;
+  position: absolute;
+}
+
+.subUl {
+  text-align: justify;
+}
+
+.SubLiMenu {
+  display: block;
+  background-color: Transparent;
+  margin: 0 auto;
+  margin-right: 30px;
+  margin-left:-35px; 
+  z-index: 2;
+}
+
+.SubaMenu {
+  font-family: "Corbel";
+  color: rgb(0, 0, 0);
+  z-index: 2;
+  font-size: 14px;
+}
+
+.subAMenu {
+  font-size: 14px;
+}
+
+.LiMenuLinguagens:hover .subUl{
+ display: block;
+}
+
+.LiMenuCodigosP:hover .subUl{
+  display: block;
+ }
+
+.SubLiMenu :hover {
+  border-bottom: #61dafb solid 2px;
+  background-color:rgba(214, 214, 214, 0.349); 
+}
+
+.SubLiMenu:hover .subUl {
+  border-left: #61dafb solid 2px;
+}
+
+.divSlide {
+  width: 50%;
+  background: none;
+  float: right;
+  margin-right: 25%;
+  position: static;
+}
+
+
+
+.divProgramadores {
+  width: 16.625%;
+  height: 16.625;
+  background:none;
+  float: right;
+}
+
+.divProgramadorLucas {
+  border:2px solid rgba(214, 214, 214, 0.349);
+}
+
+.ProgramadorImg {
+  width: 60%;
+  height: 65%;
+  float: right;
+  padding-top: 15%;
+  padding-right: 25%;
+}
+
+.h1Lucas {
+  font-family: 'Corbel';
+  font-size: 14px;
+  margin-left: 28%;
+}
+
+.LogoProgramador {
+  width: 15%;
+  height: 15%;
+  float: right;
+  margin-right: 18%;
+  margin-top: -18%;
+  border-radius: 5px;
+ 
+}
+
+.LogoProgramador:hover {
+  border:solid 2px #61dafb
+  
+}
+
+.LogoProgramador2 {
+  width: 15%;
+  height: 15%;
+  float: right;
+  margin-right: 18%;
+  margin-top: -18%;
+  border-radius: 5px;
+
+}
+
+.LogoProgramador2:hover {
+  border:solid 2px #61dafb
+}
+
+
+.HeaderFim {
+  height: 8.125%;
+  width: 100%;
+  background-color: #0394FF;
+  margin-top:34%;
+  border-top: rgb(211, 211, 211) 1px outset;
+}
+
+.Residencia {
+  margin-top: 7%;
+ text-align: start;
+  color: black;
+  margin-bottom: -25px;
+}
+
+.Residencia {
+  font-family: 'Corbel';
+  font-size: 12px
+}
+
+.Prog {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 0px;
+  color: black;
+}
+
+.Prog {
+  font-family: 'Corbel';
+  font-size: 18px
+}
+.LogoAnimaçao {
+  position: fixed;
+     margin-top: -15%;
+     margin-left: 93%;
+    padding: 0%;
+    z-index: 3;
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+    width: 7%;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); }}
+
+
+
+@font-face {
+  font-family: 'Corbel';
+  src: url('./Assets/Fontes/corbel/CORBEL.TTF') format('TTF'),
+  url('./Assets/Fontes/corbel/Corbel\ Bold.ttf') format('TTF'),
+  url('./Assets/Fontes/corbel/Corbel\ Bold\ Italic.ttf') format('TTF'),
+  url('./Assets/Fontes/corbel/Corbel\ Italic.ttf') format('TTF'),
+  url('./Assets/Fontes/corbel/CORBELB.TTF') format('TTF'),
+  url('./Assets/Fontes/corbel/corbeli.ttf') format('TTF'),
+  url('./Assets/Fontes/corbel/corbelz.ttf') format('TTF'),
+}
+
+@font-face {
+  font-family: 'Rounded';
+  src: url('./Assets/Fontes/Rounded/Rounded_Elegance.ttf') format('TTF')
+}

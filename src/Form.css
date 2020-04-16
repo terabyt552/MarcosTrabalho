@@ -1,0 +1,44 @@
+.Pesquisar {
+    width: 550px;
+    height: 25px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 210px;
+    border-style: ridge;
+    border-radius: 15px;
+    outline: none;
+    
+    
+  }
+.Pesquisar {
+    background-image:url(./LupaPesquisar.png);
+    background-repeat:no-repeat;    
+    background-size: 18px;
+    background-position-y: center;   
+    background-position-x: 3px;   
+    padding-left:23px;     
+    padding-top:5px
+}
+
+  
+
+  .Erro {
+    float: left;
+    margin-top: 217px;
+    color: red;
+    font-family: 'Playflair';
+    
+  }
+
+
+  @font-face {
+    font-family: 'Playflair';
+    src: url('./Assets/Fontes/Font-Style.Header/PlayfairDisplay-Regular.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplay-Italic.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplay-Bold.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplay-BoldItalic.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplaySC-Regular.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplaySC-Italic.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplaySC-BoldItalic.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplaySC-Bold.woff') format('woff'),
+  }

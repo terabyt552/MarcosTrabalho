@@ -1,0 +1,50 @@
+
+
+
+.HeaderSobre .Logo {
+float: center;
+text-align: center;
+margin:0 auto;
+font-family:'Rounded';
+font-size: 30px;
+color: #ffff;
+
+}
+
+.HeaderSobre{
+  background-color: #54A1FF;
+  height: 85px;
+ 
+}
+
+
+
+  .h1Sobre {
+    font-family: "Plaflair";
+    font-size: 0.8cm;
+    margin-top: 200px;
+    margin-left: 730px;
+    margin-right: 500px;
+  }
+
+
+  .h2Sobre {
+    font-family: "Plaflair";
+    font-size: 0.5cm;
+    margin-top: 70px;
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+
+  
+@font-face {
+    font-family: 'Playflair';
+    src: url('./Assets/Fontes/Font-Style.Header/PlayfairDisplay-Regular.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplay-Italic.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplay-Bold.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplay-BoldItalic.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplaySC-Regular.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplaySC-Italic.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplaySC-BoldItalic.woff') format('woff'),
+    url('./Assets/Fontes/Font-Style.Header/PlayfairDisplaySC-Bold.woff') format('woff'),
+  }
