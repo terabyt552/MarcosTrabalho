@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MarcosTrabalho/static/css/main.e0831ff6.chunk.css",
+    "main.js": "/MarcosTrabalho/static/js/main.a175a0d0.chunk.js",
+    "main.js.map": "/MarcosTrabalho/static/js/main.a175a0d0.chunk.js.map",
+    "runtime-main.js": "/MarcosTrabalho/static/js/runtime-main.6a49501d.js",
+    "runtime-main.js.map": "/MarcosTrabalho/static/js/runtime-main.6a49501d.js.map",
+    "static/css/2.1428c349.chunk.css": "/MarcosTrabalho/static/css/2.1428c349.chunk.css",
+    "static/js/2.f6154501.chunk.js": "/MarcosTrabalho/static/js/2.f6154501.chunk.js",
+    "static/js/2.f6154501.chunk.js.map": "/MarcosTrabalho/static/js/2.f6154501.chunk.js.map",
+    "index.html": "/MarcosTrabalho/index.html",
+    "precache-manifest.977dc8984a78ced58a9030a519600f55.js": "/MarcosTrabalho/precache-manifest.977dc8984a78ced58a9030a519600f55.js",
+    "service-worker.js": "/MarcosTrabalho/service-worker.js",
+    "static/css/2.1428c349.chunk.css.map": "/MarcosTrabalho/static/css/2.1428c349.chunk.css.map",
+    "static/css/main.e0831ff6.chunk.css.map": "/MarcosTrabalho/static/css/main.e0831ff6.chunk.css.map",
+    "static/js/2.f6154501.chunk.js.LICENSE.txt": "/MarcosTrabalho/static/js/2.f6154501.chunk.js.LICENSE.txt",
+    "static/media/abaIniciante.css": "/MarcosTrabalho/static/media/corbelz.6c5e3e58.ttf",
+    "static/media/LogoPesqAnimaçao.png": "/MarcosTrabalho/static/media/LogoPesqAnimaçao.43bf4ced.png",
+    "static/media/LogoProgramador.png": "/MarcosTrabalho/static/media/LogoProgramador.57cf1900.png",
+    "static/media/Form.css": "/MarcosTrabalho/static/media/LupaPesquisar.c9994447.png",
+    "static/media/Referencias.css": "/MarcosTrabalho/static/media/PlayfairDisplaySC-Regular.7d3f7e4d.woff",
+    "static/media/ProgramadorLucas.png": "/MarcosTrabalho/static/media/ProgramadorLucas.32169297.png",
+    "static/media/ProgramadorSostenes.png": "/MarcosTrabalho/static/media/ProgramadorSostenes.4c4f1ead.png",
+    "static/media/e061552b0bc6615f8504893bc8c6fbb3.gif": "/MarcosTrabalho/static/media/e061552b0bc6615f8504893bc8c6fbb3.60baf7fe.gif",
+    "static/media/slide1.png": "/MarcosTrabalho/static/media/slide1.8ab23b95.png",
+    "static/media/slide2.png": "/MarcosTrabalho/static/media/slide2.d91fb36a.png",
+    "static/media/slide3.png": "/MarcosTrabalho/static/media/slide3.51a519e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a49501d.js",
+    "static/css/2.1428c349.chunk.css",
+    "static/js/2.f6154501.chunk.js",
+    "static/css/main.e0831ff6.chunk.css",
+    "static/js/main.a175a0d0.chunk.js"
+  ]
+}
